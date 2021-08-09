@@ -41,3 +41,4 @@
 [youtube]: https://www.youtube.com/c/LilFoFo/videos
 [instagram]: https://instagram.com/oglilfofo
 
+<img src="https://64.media.tumblr.com/7aca31afe9d2aa976963485935c0d163/096e1b7c34015ab8-d7/s400x600/0e57cf5011e706a9fb607f47b3dac1d5c31b1ed0.gifv" align="right">
