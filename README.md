@@ -1,10 +1,10 @@
-### Hi, im *Seu nome* 💙
+### Hi, im *LIL FOFO* 💙
 
 ---
 
  ```js
   let family = 154
-  rule       = *Seu cargo*
+  rule       = *elite the organizer*
  
   console.log('Im member of' + family + 'and my rule is ' + rule);
   
@@ -37,8 +37,7 @@
 
 <!--Definição dos Links---->
 [discord]: http://www.discord.gg/154
-[twitter]: https://twitter.com/seuuser
-[youtube]: https://www.youtube.com/channel/seuuser
-[instagram]: https://instagram.com/seuuser
-
+[twitter]: https://twitter.com/lilfofo54
+[youtube]: https://www.youtube.com/c/LilFoFo/videos
+[instagram]: https://instagram.com/oglilfofo
 
