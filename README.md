@@ -36,7 +36,7 @@
 
 
 <!--Definição dos Links---->
-[discord]: http://www.discord.gg/154
+[discord]: http://www.discord.gg/tkf
 [twitter]: https://twitter.com/lilfofo54
 [youtube]: https://www.youtube.com/c/LilFoFo/videos
 [instagram]: https://instagram.com/oglilfofo
