@@ -7,7 +7,7 @@
 
  ```js
   let family = 154
-  rule       = *elite the organizer*
+  rule       = *sub ownerr*
  
   console.log('Im member of' + family + 'and my rule is ' + rule);
   
