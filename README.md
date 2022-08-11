@@ -1,5 +1,8 @@
-### Hi, im *LIL FOFO* 💙
+### Hi, im *Carlos Ramos* 💙
 
+- PT BR = Olá eu sou Carlos Ramos, tenho 17 anos e aqui vou deixar alguns projetos de minha criação e participações que tive, caso queria entrar em contato comigo basta mandar mensagem nas minhas redes sociais, obrigado tchau.
+
+- ENGLISH = Hello I'm Carlos Ramos, I'm 17 years old and here I'm going to leave some projects of my creation and participations I've had, if you wanted to get in touch with me just send a message on my social networks, thanks bye.
 ---
 
  ```js
