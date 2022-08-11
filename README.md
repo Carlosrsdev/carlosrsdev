@@ -36,10 +36,10 @@
 
 
 <!--Definição dos Links---->
-[discord]: http://www.discord.gg/tkf
-[twitter]: https://twitter.com/lilfofo54
-[youtube]: https://www.youtube.com/c/LilFoFo/videos
-[instagram]: https://instagram.com/oglilfofo
+[discord]: http://www.discord.gg/luv
+[twitter]: https://twitter.com/og.carlos7
+[youtube]: https://www.youtube.com/c/
+[instagram]: https://instagram.com/og.carlos7
 <br > <br >
 <br >[![card](https://github-readme-stats.vercel.app/api?username=lilfofo154&theme=merko)](https://github.com/lilfofo154/)<br >
 
